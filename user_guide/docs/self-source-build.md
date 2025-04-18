@@ -252,7 +252,7 @@ Below is the bill of materials for Helium's electronic components, including par
                 <td>Positive LED<br/>Red/3.3V/20mA</td>
                 <td>0805</td>
                 <td align="right">4</td>
-                <td>Kingbright APT2012VBC/D</td>
+                <td>Kingbright APT2012SURCK</td>
                 <td><a href="https://www.digikey.com/en/products?keywords=754-1133-1-ND" referrerpolicy="origin" rel="external noopener" target="_blank">754-1133-1-ND</a></td>
                 <td><a href="https://www.mouser.com/c/?q=604-APT2012SURCK" referrerpolicy="origin" rel="external noopener" target="_blank">604-APT2012SURCK</a></td>
                 <td><a href="https://www.lcsc.com/search?q=C5875730" referrerpolicy="origin" rel="external noopener" target="_blank">C5875730</a></td>
